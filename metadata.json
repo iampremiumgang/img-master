@@ -1,0 +1,5 @@
+{
+  "name": "Copy of IMG Master",
+  "description": "An AI-powered photo editing application that allows users to edit images using text prompts and perform virtual cloth try-ons using the Gemini 2.5 Flash Image model.",
+  "requestFramePermissions": []
+}
